@@ -1,6 +1,6 @@
 #!/bin/sh
 set -eu
-BASE=https://raw.githubusercontent.com/xximhxx/Alkuds-ipaudio-MAC-Xtreme-Player/main
+BASE=https://raw.githubusercontent.com/tarek1902/alkuds-iptv/main
 NAME=Alkuds_ipaudio-r244-DreamOS-PY27.deb
 [ "$#" -le 1 ] || { echo "Usage: sh installer-dreamos.sh [local.deb]";exit 1; }
 FILE=""
