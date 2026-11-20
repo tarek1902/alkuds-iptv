@@ -1,0 +1,22 @@
+{
+  "files": {
+    "Alkuds_ipaudio-r223.ipk": "c1257d8f4ba77c8d17259e1dc020a1d1887e2ba147620049c56d2ba18aa650f3",
+    "Alkuds_ipaudio-r223-DreamOS-PY27.deb": "6b55d9f3c1debbd83a950824eeb6dbf350ee1a8e308aebf64941bf3a39a27ea4",
+    "installer.sh": "a33b11ea063dc58e8934fd76961a6b82670ab3295f4f8a5c5953d4271aeab01b",
+    "installer-dreamos.sh": "2876c04bbcb5879aa09f5a71fbf4610a7f11cd2e200b51d7ed6ad17a7e53662a",
+    "alkuds-status.json": "9c9351701087b459a9e598bc4856be7eb360037f42c4fb34e6d8aa7685db37ca",
+    "alkuds-status-dreamos.json": "2f5e55cc196ca82d3a8cca2c3f1c6d635ff9b72b533f5c1158b7e80152e3e6da"
+  },
+  "regular_base": "pre-DreamOS timeshift + user AlooYTV + native overlay fix",
+  "dreamos_version": "223.0+dreamos26",
+  "branches_separate": true,
+  "same_public_installer_url": true,
+  "shell_syntax": "passed",
+  "python2_and_python3_checksum_checks": "passed; wrong packages rejected",
+  "zip_verified": true,
+  "github_published": false,
+  "receiver_validation": {
+    "regular": "user reported working on OpenATV",
+    "dreamos26": "offline checks only; receiver validation incomplete"
+  }
+}
